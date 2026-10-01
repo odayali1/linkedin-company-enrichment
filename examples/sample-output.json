@@ -1,0 +1,13 @@
+{
+  "_note": "Illustrative shape. A live run returns the Actor dataset for your own rows.",
+  "example": {
+    "inputUrl": "https://www.linkedin.com/company/example",
+    "name": "Example Inc",
+    "website": "https://example.com",
+    "industry": "Software Development",
+    "company_size": "11-50 employees",
+    "headquarters": "Riyadh, Saudi Arabia",
+    "followers": 1000,
+    "success": true
+  }
+}
